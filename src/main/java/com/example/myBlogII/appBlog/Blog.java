@@ -1,4 +1,4 @@
-package com.example.myBlogII;
+package com.example.myBlogII.appBlog;
 
 import lombok.Data;
 
